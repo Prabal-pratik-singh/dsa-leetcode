@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0078-subsets) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Backtracking
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0078-subsets) |
+## Binary Search
+|  |
+| ------- |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 <!---LeetCode Topics End-->
