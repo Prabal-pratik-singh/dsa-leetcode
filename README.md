@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
