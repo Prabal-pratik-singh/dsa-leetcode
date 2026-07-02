@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0155-min-stack) |
 ## Linked List
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
