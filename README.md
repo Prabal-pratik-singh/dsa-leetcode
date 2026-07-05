@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [2104-sum-of-subarray-ranges](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Backtracking
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Linked List
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
 | ------- |
