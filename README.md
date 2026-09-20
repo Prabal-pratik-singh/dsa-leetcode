@@ -46,14 +46,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Design
 |  |
