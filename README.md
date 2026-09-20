@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0328-odd-even-linked-list](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
