@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0200-number-of-islands](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0200-number-of-islands) |
 | [0496-next-greater-element-i](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -118,17 +119,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
