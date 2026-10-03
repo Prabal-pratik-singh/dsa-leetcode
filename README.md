@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
