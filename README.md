@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0994-rotting-oranges) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
