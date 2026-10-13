@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0283-move-zeroes) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0169-majority-element) |
 ## Topological Sort
 |  |
 | ------- |
@@ -184,4 +187,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0785-is-graph-bipartite) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
