@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1631-path-with-minimum-effort](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2104-sum-of-subarray-ranges](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Backtracking
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1631-path-with-minimum-effort](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/1631-path-with-minimum-effort) |
 ## String
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -154,12 +157,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -173,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -210,4 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0229-majority-element-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/1631-path-with-minimum-effort) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
