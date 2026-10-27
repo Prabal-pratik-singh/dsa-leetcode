@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0053-maximum-subarray) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Matrix
 |  |
 | ------- |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Dijkstra's Algorithm
 |  |
@@ -229,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0238-product-of-array-except-self) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
