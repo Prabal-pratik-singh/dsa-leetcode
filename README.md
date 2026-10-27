@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0169-majority-element) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0785-is-graph-bipartite) |
