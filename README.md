@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0053-maximum-subarray) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0042-trapping-rain-water) |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
