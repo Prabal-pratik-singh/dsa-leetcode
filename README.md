@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Prabal-pratik-singh/dsa-leetcode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
